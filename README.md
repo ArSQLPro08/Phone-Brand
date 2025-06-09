@@ -11,3 +11,6 @@ This Power BI dashboard analyzes real-world smartphone review data from iPhone, 
 🔍 Sales Trends: Monthly sales trend to identify seasonal performance peaks.
 
 📌 Top Models: iPhone 14 and iPhone 9 were the top-selling models, each exceeding 1.2M units
+
+
+![Screenshot_8](https://github.com/user-attachments/assets/bd1e86d7-0992-4e85-90b2-5c0947a956cf)
